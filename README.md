@@ -39,6 +39,3 @@ AWS resource 현황에 대한 monitoring 및 Q&A를 자연어 인터페이스에
 ## 🚀 설치 방법
 ```bash
 git clone https://github.com/ren-ai-ssance/AWS_Resource_Monitoring_Chatbot.git
-cd repository
-pip install -r requirements.txt
-
