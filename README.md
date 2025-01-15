@@ -1,5 +1,4 @@
 # AWS_Resource_Monitoring_Chatbot 🚀
-[![기술스택](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](/)
 
 ## 📝 프로젝트 소개
 AWS resource 현황에 대한 monitoring 및 Q&A를 자연어 인터페이스에서 구현한 Chatbot 구축 프로젝트입니다. 
