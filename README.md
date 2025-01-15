@@ -25,7 +25,7 @@ AWS resource 현황에 대한 monitoring 및 Q&A를 자연어 인터페이스에
 - Plotly: 인터랙티브 데이터 시각화
 
 ### AI/LLM Integration
-- Anthropic: Claude AI 모델 통합
+- Anthropic: Claude AI 모델 통합 on Amazon Bedrock
 
 ### 개발 환경
 - Python 3.8+
