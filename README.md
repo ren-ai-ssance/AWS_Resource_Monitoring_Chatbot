@@ -4,7 +4,7 @@
 ## 📝 프로젝트 소개
 AWS resource 현황에 대한 monitoring 및 Q&A를 자연어 인터페이스에서 구현한 Chatbot 구축 프로젝트입니다. 
 자원에 관한 문의를 받는 조직 혹은 개인 모두 활용할 수 있습니다.
-로그인, 권한, Text2sql, AWS document RAG 활용이 포함 된 추가 버전은 시간을 두고 업데이트 할 예정입니다.
+로그인, 권한 별 접근, Text2sql, AWS document RAG 활용이 포함 된 추가 버전은 시간을 두고 업데이트 할 예정입니다.
 
 ## ⚙️ 기술 스택
 
