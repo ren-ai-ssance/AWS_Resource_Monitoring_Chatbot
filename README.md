@@ -42,7 +42,6 @@ AWS resource 현황에 대한 monitoring 및 Q&A를 자연어 인터페이스에
 3. AWS Expert Chat을 통한 AI AWS 전문가의 조언 및 질의 가능
 
 ## 🚀 설치 방법
-```bash
 git clone https://github.com/ren-ai-ssance/AWS_Resource_Monitoring_Chatbot.git
 
 ## 👥 Contributors
