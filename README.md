@@ -45,8 +45,6 @@ AWS resource 현황에 대한 monitoring 및 Q&A를 자연어 인터페이스에
 git clone https://github.com/ren-ai-ssance/AWS_Resource_Monitoring_Chatbot.git
 
 ## 👥 Contributors
-- Kyutae Park, Ph.D (AWS Solutions Architect) | [Email](mailto:kyutae@amazon.com) | [LinkedIn](www.linkedin.com/in/ren-ai-ssance
-
-) 
+- Kyutae Park, Ph.D (AWS Solutions Architect) | [Email](mailto:kyutae@amazon.com) | [LinkedIn](www.linkedin.com/in/ren-ai-ssance) 
 
 
