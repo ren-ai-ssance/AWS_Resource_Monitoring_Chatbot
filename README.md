@@ -1,11 +1,17 @@
 # AWS_Resource_Monitoring_Chatbot 🚀
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fren-ai-ssance%2FAWS_Resource_Monitoring_Chatbot&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![GitHub contributors](https://img.shields.io/github/contributors/ren-ai-ssance/AWS_Resource_Monitoring_Chatbot)](https://github.com/ren-ai-ssance/AWS_Resource_Monitoring_Chatbot/graphs/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/ren-ai-ssance/AWS_Resource_Monitoring_Chatbot)](https://github.com/ren-ai-ssance/AWS_Resource_Monitoring_Chatbot/issues)
+[![GitHub forks](https://img.shields.io/github/forks/ren-ai-ssance/AWS_Resource_Monitoring_Chatbot)](https://github.com/ren-ai-ssance/AWS_Resource_Monitoring_Chatbot/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/ren-ai-ssance/AWS_Resource_Monitoring_Chatbot)](https://github.com/ren-ai-ssance/AWS_Resource_Monitoring_Chatbot/stargazers)
+
 ## 📝 프로젝트 소개
 AWS resource 현황에 대한 monitoring 및 Q&A를 자연어 인터페이스에서 구현한 Chatbot 구축 프로젝트입니다. 
 자원에 관한 문의를 받는 조직 혹은 개인 모두 활용할 수 있습니다.
-로그인, 권한 별 접근, Text2sql, AWS document RAG 활용이 포함 된 추가 버전은 시간을 두고 업데이트 할 예정입니다.
+로그인, 권한, Text2sql, AWS document RAG 활용이 포함 된 추가 버전은 시간을 두고 업데이트 할 예정입니다.
 
-## ⚙️ 기술 스택
+## ⚙️ Languages / Frameworks / Libraries
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
@@ -38,3 +44,10 @@ AWS resource 현황에 대한 monitoring 및 Q&A를 자연어 인터페이스에
 ## 🚀 설치 방법
 ```bash
 git clone https://github.com/ren-ai-ssance/AWS_Resource_Monitoring_Chatbot.git
+
+## 👥 Contributors
+- Kyutae Park, Ph.D (AWS Solutions Architect) | [Email](mailto:kyutae@amazon.com) | [LinkedIn](www.linkedin.com/in/ren-ai-ssance
+
+) 
+
+
