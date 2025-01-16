@@ -6,10 +6,10 @@
 [![GitHub forks](https://img.shields.io/github/forks/ren-ai-ssance/AWS_Resource_Monitoring_Chatbot)](https://github.com/ren-ai-ssance/AWS_Resource_Monitoring_Chatbot/network/members)
 [![GitHub stars](https://img.shields.io/github/stars/ren-ai-ssance/AWS_Resource_Monitoring_Chatbot)](https://github.com/ren-ai-ssance/AWS_Resource_Monitoring_Chatbot/stargazers)
 
-## 📝 프로젝트 소개
-AWS resource 현황에 대한 monitoring 및 Q&A를 자연어 인터페이스에서 구현한 Chatbot 구축 프로젝트입니다. 
-자원에 관한 문의를 받는 조직 혹은 개인 모두 활용할 수 있습니다.
-로그인, 권한, Text2sql, AWS document RAG 활용이 포함 된 추가 버전은 시간을 두고 업데이트 할 예정입니다.
+## 📝 Project Overview
+A chatbot project that implements AWS resource monitoring and Q&A in a natural language interface.
+This can be utilized by both organizations and individuals who receive resource-related inquiries.
+Additional features including login, authorization, Text2SQL, and AWS document RAG implementation will be updated in future versions.
 
 ## ⚙️ Languages / Frameworks / Libraries
 
@@ -20,28 +20,29 @@ AWS resource 현황에 대한 monitoring 및 Q&A를 자연어 인터페이스에
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ### Web Application
-- Streamlit: 대화형 웹 애플리케이션 구축
+- Streamlit: Interactive web application development
 
 ### AWS Integration
-- Boto3: AWS 서비스 연동 및 리소스 관리
+- Boto3: AWS service integration and resource management
 
 ### Data Processing & Analysis
-- Pandas: 데이터 처리 및 분석
-- Plotly: 인터랙티브 데이터 시각화
+- Pandas: Data processing and analysis
+- Plotly: Interactive data visualization
 
 ### AI/LLM Integration
-- Anthropic: Claude AI 모델 통합 on Amazon Bedrock
+- Anthropic: Claude AI model integration on Amazon Bedrock
 
-### 개발 환경
+### evelopment Environment
 - Python 3.8+
 - Git
+- JupyterLab
 
-## 🔍 주요 기능
-1. 자연어 인터페이스 기반 Resource 현황 제공
-2. 비용 Dashboard 제공
-3. AWS Expert Chat을 통한 AI AWS 전문가의 조언 및 질의 가능
+## 🔍 Key Features
+1. Natural language interface for resource status monitoring
+2. Cost Dashboard
+3. AI AWS expert consultation and Q&A through AWS Expert Chat
 
-## 🚀 설치 방법
+## 🚀 Installation
 git clone https://github.com/ren-ai-ssance/AWS_Resource_Monitoring_Chatbot.git
 
 ## 👥 Contributors
