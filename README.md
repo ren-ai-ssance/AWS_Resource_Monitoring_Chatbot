@@ -6,6 +6,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/ren-ai-ssance/AWS_Resource_Monitoring_Chatbot)](https://github.com/ren-ai-ssance/AWS_Resource_Monitoring_Chatbot/network/members)
 [![GitHub stars](https://img.shields.io/github/stars/ren-ai-ssance/AWS_Resource_Monitoring_Chatbot)](https://github.com/ren-ai-ssance/AWS_Resource_Monitoring_Chatbot/stargazers)
 
+
+
 ## 📝 Project Overview
 A chatbot project that implements AWS resource monitoring and Q&A in a natural language interface.
 This can be utilized by both organizations and individuals who receive resource-related inquiries.
