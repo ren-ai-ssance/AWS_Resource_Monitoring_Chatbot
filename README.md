@@ -36,7 +36,6 @@ Additional features including login, authorization, Text2SQL, and AWS document R
 
 ### evelopment Environment
 - Python 3.8+
-- Git
 - JupyterLab
 
 ## 🔍 Key Features
